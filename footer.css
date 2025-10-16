@@ -1,0 +1,10 @@
+.footer-content {
+  background-color: white;
+}
+
+.footer-nav {
+  color: black;
+  text-align: end;
+  padding: 2rem 2rem;
+  text-decoration: none;
+}
