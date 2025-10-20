@@ -1,11 +1,13 @@
 .main-content {
+  width: 100%;
   color: var(--bg-white);
   font-size: xx-small;
   text-align: center;
   background-color: var(--bg-blue);
-  padding: 10rem 10rem;
+  padding: 15rem 2rem;
 }
 
 .btn-read-more {
-  background-color: #5b2e48;
+  background-color: var(--btn-primar-vine);
+  padding: 1rem 2rem;
 }
