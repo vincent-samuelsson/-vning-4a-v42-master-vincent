@@ -1,9 +1,9 @@
 .footer-content {
-  background-color: white;
+  background-color: var(--bg-light);
 }
 
 .footer-nav {
-  color: black;
+  color: var(--text-dark);
   text-align: end;
   padding: 2rem 2rem;
   text-decoration: none;

@@ -1,8 +1,8 @@
 .main-content {
-  color: white;
+  color: var(--bg-white);
   font-size: xx-small;
   text-align: center;
-  background-color: #587291;
+  background-color: var(--bg-blue);
   padding: 10rem 10rem;
 }
 
